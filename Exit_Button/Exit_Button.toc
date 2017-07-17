@@ -1,0 +1,20 @@
+## Interface: 60100
+## X-Compatible-With : 60100
+## X-Min-Interface: 60100
+##
+## Version: 6.1.0-Release
+## Title: Exit_Button
+## Notes: One click Logout/Exit/Reload button for Broker
+## Author: W01ph
+## X-Curse-Packaged-Version: 6.1.0-Release
+## X-Curse-Project-Name: Exit_Button
+## X-Curse-Project-ID: Exit_Button
+## X-Curse-Repository-ID: wow/Exit_Button/mainline
+## X-Curse-Packaged-Version: 6.1.0-Release
+## X-Curse-Project-Name: Exit_Button
+## X-Curse-Project-ID: Exit_Button
+## X-Curse-Repository-ID: wow/Exit_Button/mainline
+
+embeds.xml
+
+Exit_Button.lua
